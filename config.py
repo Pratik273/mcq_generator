@@ -19,7 +19,7 @@ print("KEYS ARE HERE",AZURE_API_KEY, AZURE_API_BASE, AZURE_DEPLOYMENT_NAME, AZUR
 # Application Configuration
 APP_NAME = os.getenv("APP_NAME", "MCQ Generator API")
 APP_VERSION = os.getenv("APP_VERSION", "1.0.0")
-APP_DESCRIPTION = os.getenv("APP_DESCRIPTION", "AI-powered MCQ generation with learning resources Tool")
+APP_DESCRIPTION = os.getenv("APP_DESCRIPTION", "Smart MCQ generation with learning resources Tool")
 AVERAGE_GENERATION_TIME= os.getenv("AVERAGE_GENERATION_TIME", "50")
 # Server Configuration
 HOST = os.getenv("HOST", "0.0.0.0")

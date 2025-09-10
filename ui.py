@@ -65,7 +65,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>🎯 Smart MCQ Generator</h1>
-    <p>Generate intelligent multiple-choice questions with AI-powered insights</p>
+    <p>Generate intelligent multiple-choice questions with smart insights</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -313,7 +313,7 @@ if st.session_state.generated_data:
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: #666; padding: 1rem;'>"
-    "🤖 Powered by AI • Built with Streamlit"
+    "🤖 Smart Technology • Built with Streamlit"
     "</div>",
     unsafe_allow_html=True
 )

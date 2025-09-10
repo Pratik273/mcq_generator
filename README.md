@@ -1,13 +1,13 @@
 # 🎯 Smart MCQ Generator
 
-> AI-powered Multiple Choice Questions Generator with Learning Roadmap and Video Resources
+> Smart Multiple Choice Questions Generator with Learning Roadmap and Video Resources
 
 An intelligent educational tool that generates customized MCQs, learning roadmaps, and curated video resources using Azure OpenAI GPT-4 technology. Perfect for educators, students, and content creators who want to create comprehensive learning materials efficiently.
 
 ## ✨ Features
 
 ### 🚀 Core Functionality
-- **AI-Powered MCQ Generation**: Create intelligent multiple-choice questions on any topic
+- **Smart MCQ Generation**: Create intelligent multiple-choice questions on any topic
 - **Customizable Difficulty**: Basic, Intermediate, Advanced, or Mixed difficulty levels
 - **Batch Generation**: Generate 5-50 questions in a single request
 - **Smart Explanations**: Detailed explanations for each correct answer
