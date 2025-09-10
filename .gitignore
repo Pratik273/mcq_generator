@@ -197,5 +197,5 @@ yarn-error.log*
 *.tar
 *.zip
 
-# Claude Code specific
+# Development tools
 .claude/
